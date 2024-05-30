@@ -21,11 +21,3 @@ Form Fields: Easy-to-use input fields for your company name, keyword, slogan, co
 Grid Layout: A clean, grid-based layout that organizes input fields logically, ensuring a smooth user experience.
 Logo Gallery: View generated logos in a gallery format, each accompanied by a download button for easy access.
 
-# Contributor
-<!-- Copy-paste in your Readme.md file -->
-
-<a href = "https://github.com/Haris-khan-Durrani/AI-Logo-Builder/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Haris-khan-Durrani/AI-Logo-Builder"/>
-</a>
-
-Made with [contributors-img](https://hariskhandurrani.com).
