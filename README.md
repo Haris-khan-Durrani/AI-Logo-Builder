@@ -22,4 +22,10 @@ Grid Layout: A clean, grid-based layout that organizes input fields logically, e
 Logo Gallery: View generated logos in a gallery format, each accompanied by a download button for easy access.
 
 # Contributor
-[<img src="https://github.com/Haris-khan-Durrani.png" width="60px;"/><br /><sub><a href="https://github.com/Haris-khan-Durrani"> Haris-khan-Durrani</a></sub>](https://github.com/Haris-khan-Durrani/AI-Logo-Builder
+<!-- Copy-paste in your Readme.md file -->
+
+<a href = "https://github.com/Haris-khan-Durrani/AI-Logo-Builder/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=Haris-khan-Durrani/AI-Logo-Builder"/>
+</a>
+
+Made with [contributors-img](https://hariskhandurrani.com).
