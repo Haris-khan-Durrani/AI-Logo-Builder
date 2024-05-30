@@ -20,3 +20,6 @@ The interface is designed to be user-friendly and intuitive:
 Form Fields: Easy-to-use input fields for your company name, keyword, slogan, colors, and logo style.
 Grid Layout: A clean, grid-based layout that organizes input fields logically, ensuring a smooth user experience.
 Logo Gallery: View generated logos in a gallery format, each accompanied by a download button for easy access.
+
+# Contributor
+[<img src="https://github.com/Haris-khan-Durrani.png" width="60px;"/><br /><sub><ahref="https://github.com/Haris-khan-Durrani">{{ Haris-khan-Durrani }}</a></sub>](https://github.com/Haris-khan-Durrani/{{ repository }}
