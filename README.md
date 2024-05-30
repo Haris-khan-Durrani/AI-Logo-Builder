@@ -1,7 +1,6 @@
 # AI-Logo-Builder
 [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange.svg)](https://www.buymeacoffee.com/hariskha)
-
-![Condition Maker Logo]([https://hariskhandurrani.com/images/haris.jpeg](https://storage.googleapis.com/msgsndr/gaLwORwdEGHxCHjEqZ1C/media/665890776cee2b8b0f4d7984.png))
+![AI Logo Builder](https://storage.googleapis.com/msgsndr/gaLwORwdEGHxCHjEqZ1C/media/665890776cee2b8b0f4d7984.png)
 Welcome to the Auto AI Logo Builder, your ultimate tool for creating stunning logos with just one click! Here’s a brief overview of how to get started and what you can expect from this powerful logo creation tool.
 # How It Works
 Enter Your Details: Fill in your company name, keyword, slogan, brand colors, and select your desired logo style and tags. These inputs will guide the AI in generating a logo that aligns with your brand identity.
